@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# BigMart-AMAZONA
 
 ![amazona](/frontend/public/images/amazona.jpg)
 
